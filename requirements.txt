@@ -1,0 +1,4 @@
+Django==3.2.10
+django-admin-rangefilter==0.8.3
+graphene-django==2.15.0
+django_filter==2.4.0
